@@ -3,24 +3,10 @@
 # ComfyUI Flux Klein Text Encode
 **Simple and functional Text Encode for Klein.**
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="./images/main.png"
-           alt="Flux Klein Text Encode Screenshot"
-           width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <sub>
-        📦 <b>Also available in <a href="https://github.com/VictorDmAlves/comfyui-vicnodes">VicNodes!</a></b>
-      </sub>
-    </td>
-  </tr>
-</table>
-
+![Flux Klein Text Encode Screenshot](./images/main.png)
 </div>
+
+📦<b> Also available in <a href="https://github.com/VictorDmAlves/comfyui-vicnodes">VicNodes!</a></b>
 
 A compact **FLUX.2 Klein** text encoder with dynamically growing multi-image reference inputs; no more needing to attach `Reference Latent` for every single image.
 
