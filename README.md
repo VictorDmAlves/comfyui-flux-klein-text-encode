@@ -3,14 +3,20 @@
 # ComfyUI Flux Klein Text Encode
 **Simple and functional Text Encode for Klein.**
 
-![Flux Klein Text Encode Screenshot](./images/main.png)
-<table>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="./images/main.png"
+           alt="Flux Klein Text Encode Screenshot"
+           width="100%">
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <sub>
-        📦 <b>Also available in VicNodes!</b><br>
-        This plugin is also included in my `custom_node` collection.<br>
-        <a href="https://github.com/VictorDmAlves/comfyui-vicnodes">Explore VicNodes on GitHub</a>
+        📦 <b>Also available in VicNodes!</b>
+        — This plugin is part of my custom nodes collection.
+        <a href="https://github.com/VictorDmAlves/comfyui-vicnodes">Explore VicNodes</a>
       </sub>
     </td>
   </tr>
