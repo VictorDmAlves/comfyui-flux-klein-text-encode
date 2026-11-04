@@ -14,9 +14,7 @@
   <tr>
     <td align="center">
       <sub>
-        📦 <b>Also available in VicNodes!</b>
-        — This plugin is part of my custom nodes collection.
-        <a href="https://github.com/VictorDmAlves/comfyui-vicnodes">Explore VicNodes</a>
+        📦 <b>Also available in <a href="https://github.com/VictorDmAlves/comfyui-vicnodes">VicNodes!</a></b>
       </sub>
     </td>
   </tr>
